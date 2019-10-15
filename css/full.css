@@ -5,6 +5,10 @@
  */
 
 body {
+  margin : 30px;
+  padding : 20px;
+  font-style : cooper;
+  font-decoration : none;
   background-image:url("bg.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
